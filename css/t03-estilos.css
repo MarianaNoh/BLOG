@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    background-color: #5f1b00;
+}
+#menú {
+    background-color: goldenrod;
+    padding: 5px;
+    border: 2px solid rgb(81, 43, 0)
+}
+h1{
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32pt;
+    text-align: center;
+    
+}
+.inicio {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    color: rgb(233, 233, 198);
+    text-align: center;
+}
+#zona-imagenes {
+    width: 100%;
+    background-color: #91300a;
+    text-align: center;
+    
+}
+img {
+    width: 25%;
+}
+#zona-cuerpo {
+    width: 900px;
+    margin: 0 auto;
+    background-color: #d34f1e;
+    text-align: center;
+}
+.texto-cuerpo {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    color: #e1dbd9ea;
+}
+.lista {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #d34f1e;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    color: #e1dbd9ea;
+}
+.contac {
+    width: 100px;
+    margin: 0 auto;
+    background-color: #d34f1e;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    color: #e1dbd9ea;
+}
+#zona-final { 
+    width: 100%;
+    background-color: #eca106;
+    text-align: left;
+}
+.texto-final {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10pt;
+    font-weight: bold;
+    color: #5f1b00;
+}
